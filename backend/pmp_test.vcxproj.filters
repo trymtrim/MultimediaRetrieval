@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C651E071-2CB9-3137-9F53-7F0A0EC4A5FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Actions">
+      <UniqueIdentifier>{4c045754-eeba-4602-8e04-423917bbcfe0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Database">
+      <UniqueIdentifier>{08535709-e932-4bf5-851c-91af6e5a8788}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\actions\authors.cpp">
+      <Filter>Source Files\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actions\extract.cpp">
+      <Filter>Source Files\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actions\normalize.cpp">
+      <Filter>Source Files\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actions\version.cpp">
+      <Filter>Source Files\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database\Backup.cpp">
+      <Filter>Source Files\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database\Column.cpp">
+      <Filter>Source Files\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database\Database.cpp">
+      <Filter>Source Files\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database\Exception.cpp">
+      <Filter>Source Files\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database\Statement.cpp">
+      <Filter>Source Files\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database\Transaction.cpp">
+      <Filter>Source Files\Database</Filter>
+    </ClCompile>
+    <ClCompile Include="src\backend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\feature_extraction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\features.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\normalization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\preprocessing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\remeshing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\database_mr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\action_args.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actions\store.cpp">
+      <Filter>Source Files\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actions\query.cpp">
+      <Filter>Source Files\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="src\feature_matching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\evaluation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actions\evaluate.cpp">
+      <Filter>Source Files\Actions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\actions\authors.h">
+      <Filter>Source Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actions\extract.h">
+      <Filter>Source Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actions\normalize.h">
+      <Filter>Source Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actions\version.h">
+      <Filter>Source Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\action.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\config.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\feature_extraction.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\features.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\normalization.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\preprocessing.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\remeshing.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\util.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\database_mr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\action_args.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actions\store.h">
+      <Filter>Source Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actions\query.h">
+      <Filter>Source Files\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="src\feature_matching.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\evaluation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actions\evaluate.h">
+      <Filter>Source Files\Actions</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

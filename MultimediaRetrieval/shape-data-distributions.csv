@@ -1,0 +1,2 @@
+Average Vertex Count,Average Face Count,Face Types Present,Average Edge Count,Average Bounding Box Size,Vertex Count Range,Face Count Range,Edge Count Range,Bounding Box Size Range
+10290,20577,Triangles,30865,"(1.3, 1.2, 1.1)","1343 - 27824","2682 - 50542","4023 - 83466","(0.2, 1.0, 0.2) - (1.8, 1.7, 1.7)"

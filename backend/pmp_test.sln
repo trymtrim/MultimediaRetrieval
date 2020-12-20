@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pmp_test", "pmp_test.vcxproj", "{A9180BF8-649D-3F42-80EB-016218C1B69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug --author|Win32 = Debug --author|Win32
+		Debug --extract|Win32 = Debug --extract|Win32
+		Debug --inspect|Win32 = Debug --inspect|Win32
+		Debug --normalize|Win32 = Debug --normalize|Win32
+		Debug --store|Win32 = Debug --store|Win32
+		Debug --version|Win32 = Debug --version|Win32
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --author|Win32.ActiveCfg = Debug --extract|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --author|Win32.Build.0 = Debug --extract|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --extract|Win32.ActiveCfg = Debug --extract|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --extract|Win32.Build.0 = Debug --extract|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --inspect|Win32.ActiveCfg = Debug --inspect|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --inspect|Win32.Build.0 = Debug --inspect|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --normalize|Win32.ActiveCfg = Debug --normalize|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --normalize|Win32.Build.0 = Debug --normalize|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --store|Win32.ActiveCfg = Debug --stor|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --store|Win32.Build.0 = Debug --stor|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --version|Win32.ActiveCfg = Debug --versio|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug --version|Win32.Build.0 = Debug --versio|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Debug|Win32.Build.0 = Debug|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Release|Win32.ActiveCfg = Release|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.Release|Win32.Build.0 = Release|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.RelWithDebInfo|Win32.ActiveCfg = Debug|Win32
+		{A9180BF8-649D-3F42-80EB-016218C1B69E}.RelWithDebInfo|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C4C5FA1-D949-3ECC-A18A-12D70BBE53AC}
+	EndGlobalSection
+EndGlobal
